@@ -1,0 +1,41 @@
+.body_backgorund
+{
+    background-image:url(secret.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+  border-width:10px;
+  background-color:blueviolet;
+  border-style: ridge;
+  border-color: darkviolet;
+ background-image:url(hOye.gif);
+  background-position:center;
+background-repeat: no-repeat;
+width:600;
+}
+
+h1 {
+    color:red;
+text-align: center;
+}
+h2 {
+    color:gold;
+    text-align: center;
+}
+.img {
+  width: 600px;
+  
+}
+#secon {
+ text-align: right;
+
+ float:right;
+}
+#seco {
+  text-align: right;
+ 
+  float:right;
+  background-color: transparent;
+ }
